@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="SwitchButton">
+    <attr name="switch_background" format="reference"/>
+    <attr name="slide_button" format="reference"/>
+    <attr name="slide_status" format="boolean"/>
+
+  </declare-styleable>
+
+</resources>
